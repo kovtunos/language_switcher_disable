@@ -1,0 +1,9 @@
+name: 'Language Switcher Disable'
+type: module
+description: 'Disable language switcher links for untranslated languages on an entity'
+package: Custom
+core: 8.x
+
+dependencies:
+  - language
+  - content_translation
